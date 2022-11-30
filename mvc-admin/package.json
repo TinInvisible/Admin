@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
+    "build": "nodemon ./bin/www",
     "watch": "node-sass public/assets/scss public/assets/css"
   },
   "dependencies": {
