@@ -20,5 +20,9 @@
   "devDependencies": {
     "node-sass": "^8.0.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
